@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11516" started-at="2021-04-22T16:09:06Z" finished-at="2021-04-22T16:09:17Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11516" started-at="2021-04-22T16:09:06Z" finished-at="2021-04-22T16:09:17Z">
+      <class name="com.api.rmgYantra.GetSingleProject">
+        <test-method status="PASS" signature="getAllProjects()[pri:0, instance:com.api.rmgYantra.GetSingleProject@d2cc05a]" name="getAllProjects" duration-ms="8014" started-at="2021-04-22T21:39:06Z" finished-at="2021-04-22T21:39:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllProjects -->
+        <test-method status="PASS" signature="getSignleProject()[pri:0, instance:com.api.rmgYantra.GetSingleProject@d2cc05a]" name="getSignleProject" duration-ms="3425" started-at="2021-04-22T21:39:14Z" finished-at="2021-04-22T21:39:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getSignleProject -->
+      </class> <!-- com.api.rmgYantra.GetSingleProject -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
